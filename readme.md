@@ -1,6 +1,6 @@
 # Документация.
 [![GitLab latest release](https://badgen.net/github/release/Stepanov-Sergey/YART)](https://github.com/Stepanov-Sergey/YART/releases)
-[![GitLab latest release](https://badgen.net/github/last-commit/Stepanov-Sergey/YART)](https://github.com/Stepanov-Sergey/YART/commits/main)
+[![GitLab latest release](https://badgen.net/github/last-commit/Stepanov-Sergey/YART/YART)](https://github.com/Stepanov-Sergey/YART/commits/main)
 
 ## Программируемый логический контроллер YART
 
