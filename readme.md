@@ -1,3 +1,4 @@
+<a href="https://stepanov-sergey.github.io/YART/">Документация</a>
 # Документация.
 [![GitLab latest release](https://badgen.net/github/release/Stepanov-Sergey/YART)](https://github.com/Stepanov-Sergey/YART/releases)
 [![GitLab latest release](https://badgen.net/github/last-commit/Stepanov-Sergey/YART/YART)](https://github.com/Stepanov-Sergey/YART/commits/main)
