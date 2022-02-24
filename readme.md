@@ -1,8 +1,8 @@
 <a href="https://stepanov-sergey.github.io/YART/">Документация</a>
-# Руководство эксплуатации
-САМД.425000.001РЭ
-<a href="https://badgen.net/github/release/Stepanov-Sergey/YART"><img alt="Release version" src="https://img.shields.io/github/v/release/Stepanov-Sergey/YART"></a>
+# Руководство эксплуатации <a href="https://badgen.net/github/release/Stepanov-Sergey/YART"><img alt="Release version" src="https://img.shields.io/github/v/release/Stepanov-Sergey/YART"></a>
 [![GitLab latest release](https://badgen.net/github/last-commit/Stepanov-Sergey/YART/YART)](https://github.com/Stepanov-Sergey/YART/commits/main)
+САМД.425000.001РЭ
+
 
 ## Программируемый логический контроллер YART
 
