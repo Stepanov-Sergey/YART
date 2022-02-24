@@ -2,6 +2,7 @@
 # Документация.
 [![GitLab latest release](https://badgen.net/github/release/Stepanov-Sergey/YART)](https://github.com/Stepanov-Sergey/YART/releases)
 
+<a href="https://badgen.net/github/release/Stepanov-Sergey/YART"><img alt="Release version" src="https://img.shields.io/github/v/release/Stepanov-Sergey/YART"></a>
 [![GitLab latest release](https://badgen.net/github/last-commit/Stepanov-Sergey/YART/YART)](https://github.com/Stepanov-Sergey/YART/commits/main)
 
 ## Программируемый логический контроллер YART
@@ -11,4 +12,3 @@
 <img alt="GitHub last commit" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <img alt="GitHub last commit" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 
-<a href="https://img.shields.io/github/v/release/Stepanov-Sergey/YART"><img alt="Release version" src="https://badgen.net/github/release/Stepanov-Sergey/YART"></a>
