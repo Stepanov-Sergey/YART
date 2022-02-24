@@ -1,5 +1,6 @@
 <a href="https://stepanov-sergey.github.io/YART/">Документация</a>
-# Документация.
+# Руководство эксплуатации
+<p>САМД.425000.001РЭ</p>
 <a href="https://badgen.net/github/release/Stepanov-Sergey/YART"><img alt="Release version" src="https://img.shields.io/github/v/release/Stepanov-Sergey/YART"></a>
 [![GitLab latest release](https://badgen.net/github/last-commit/Stepanov-Sergey/YART/YART)](https://github.com/Stepanov-Sergey/YART/commits/main)
 
